@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "walkingDownThe Street/1.0.0": {
+        "runtime": {
+          "walkingDownThe Street.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "walkingDownThe Street/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
